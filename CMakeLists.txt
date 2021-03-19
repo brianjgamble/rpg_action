@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(cpp_starter_project VERSION 0.0.1 LANGUAGES CXX)
+project(rpg_action VERSION 0.0.1 LANGUAGES CXX)
 
 # Require C++20 and disable extensions for all targets
 set(CMAKE_CXX_STANDARD 20)
